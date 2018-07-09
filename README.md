@@ -1,5 +1,5 @@
 # email-interactivity
-Contains the codes of the accepted CICBA KGEC paper id 101
+Contains the codes of paper accepted at CICBA 2018[Conference link](http://www.cicba.in/).
 
 # Title
 Understanding Email Interactivity and Predicting User Response to email
